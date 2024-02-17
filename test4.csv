@@ -1,9 +1,66 @@
 ,Country,Year,Population,LifeExp,GDP,Code,Region,Area,Coastline,Government,Score
-1,Education,1975,12582954,44,1201,AF,Asia,652230,0,islamic republic,84.89
-2,Education,1960,8994793,35.6846,1206,AF,Asia,652230,0,islamic republic,69.32
-3,Education,1974,12315553,43.5,1170,AF,Asia,652230,0,islamic republic,83.88
-4,Education,1993,14824371,50.5,810,AF,Asia,652230,0,islamic republic,95.07
-5,Education,1966,10148841,39.38804,1168,AF,Asia,652230,0,islamic republic,76.21
-6,Education,1965,9935358,38.7753,1182,AF,Asia,652230,0,islamic republic,75.09
-7,Education,2000,19701940,51,962,AF,Asia,652230,0,islamic republic,96.86
-8,Education,1969,10849510,41.20626,1178,AF,Asia,652230,0,islamic republic,79.63
+1,Education,2016,"3,768,800,654.00",0.06591,"57,178,679,900",AF,Asia,652230,0,Ghana,6.59
+2,Education,2017,"4,522,560,784.80",0.07754,"58,322,253,498",AL,Asia,652230,0,Ghana,7.75
+3,Education,2018,"5,427,072,941.76",0.09123,"59,488,698,568",DZ,Asia,652230,0,Ghana,9.12
+4,Education,2019,"6,512,487,530.11",0.10733,"60,678,472,539",AD,Asia,652230,0,Ghana,10.73
+5,Education,2020,"7,814,985,036.13",0.12627,"61,892,041,990",AO,Asia,652230,0,Ghana,12.63
+6,Education,2021,"9,377,982,043.36",0.14855,"63,129,882,830",AG,Asia,652230,0,Ghana,14.86
+7,Education,2022,"11,253,578,452.03",0.17477,"64,392,480,487",AR,Asia,652230,0,Ghana,17.48
+8,Education,2023,"13,504,294,142.44",0.20561,"65,680,330,096",AM,Asia,652230,0,Ghana,20.56
+9,Health,2016,"16,205,152,970.93",0.24189,"66,993,936,698",AW,Europe,652230,0,Ghana,24.19
+10,Health,2017,"19,446,183,565.11",0.28458,"68,333,815,432",AU,Europe,652230,0,Ghana,28.46
+11,Health,2018,"23,335,420,278.14",0.3348,"69,700,491,741",AT,Europe,652230,0,Ghana,33.48
+12,Health,2019,"28,002,504,333.76",0.39388,"71,094,501,576",AZ,Europe,652230,0,Ghana,39.39
+13,Health,2020,"33,603,005,200.52",0.46338,"72,516,391,607",BS,Europe,652230,0,Ghana,46.34
+14,Health,2021,"40,323,606,240.62",0.54516,"73,966,719,439",BH,Europe,652230,0,Ghana,54.52
+15,Health,2022,"48,388,327,488.74",0.64136,"75,446,053,828",BD,Europe,652230,0,Ghana,64.14
+16,Health,2023,"58,065,992,986.49",0.75455,"76,954,974,905",BB,Europe,652230,0,Ghana,75.45
+17,"Gender, Children and Social Protection",2016,"69,679,191,583.79",0.8877,"78,494,074,403",BY,Europe,652230,0,Ghana,88.77
+18,"Gender, Children and Social Protection",2017,"83,615,029,900.55",1.04435,"80,063,955,891",BE,Europe,652230,0,Ghana,104.44
+19,"Gender, Children and Social Protection",2018,"100,338,035,880.66",1.22865,"81,665,235,009",BZ,North America,652230,0,Ghana,122.87
+20,"Gender, Children and Social Protection",2019,"120,405,643,056.79",1.44547,"83,298,539,709",BJ,North America,652230,0,Ghana,144.55
+21,"Gender, Children and Social Protection",2020,"144,486,771,668.15",1.70055,"84,964,510,503",BT,North America,652230,0,Ghana,170.06
+22,"Gender, Children and Social Protection",2021,"173,384,126,001.78",2.00065,"86,663,800,713",BO,North America,652230,0,Ghana,200.07
+23,"Gender, Children and Social Protection",2022,"208,060,951,202.14",2.35371,"88,397,076,727",BA,North America,652230,0,Ghana,235.37
+24,"Gender, Children and Social Protection",2023,"249,673,141,442.56",2.76907,"90,165,018,262",BW,North America,652230,0,Ghana,276.91
+25,"Gender, Children and Social Protection",2023,"299,607,769,731.08",3.25773,"91,968,318,627",BR,North America,652230,0,Ghana,325.77
+26,Employment and Labour Relations,2016,"359,529,323,677.29",3.83262,"93,807,685,000",BN,North America,652230,0,Ghana,383.26
+27,Employment and Labour Relations,2017,"431,435,188,412.75",4.50897,"95,683,838,700",BG,North America,652230,0,Ghana,450.9
+28,Employment and Labour Relations,2018,"517,722,226,095.30",5.30467,"97,597,515,474",BF,North America,652230,0,Ghana,530.47
+29,Employment and Labour Relations,2019,"621,266,671,314.36",6.24078,"99,549,465,783",BI,North America,652230,0,Ghana,624.08
+30,Employment and Labour Relations,2020,"745,520,005,577.23",7.3421,"101,540,455,099",KH,North America,652230,0,Ghana,734.21
+31,Employment and Labour Relations,2021,"894,624,006,692.68",8.63776,"103,571,264,201",CM,Central America,652230,0,Ghana,863.78
+32,Employment and Labour Relations,2022,"1,073,548,808,031.22",10.16207,"105,642,689,485",CA,Central America,652230,0,Ghana,"1,016.21"
+33,Employment and Labour Relations,2023,"1,288,258,569,637.46",11.95538,"107,755,543,274",CV,Central America,652230,0,Ghana,"1,195.54"
+34,Ministry of Youth and Sports,2016,"1,545,910,283,564.95",14.06515,"109,910,654,140",CF,Central America,652230,0,Ghana,"1,406.52"
+35,Ministry of Youth and Sports,2017,"1,855,092,340,277.94",16.54724,"112,108,867,223",TD,Central America,652230,0,Ghana,"1,654.72"
+36,Ministry of Youth and Sports,2018,"2,226,110,808,333.53",19.46734,"114,351,044,567",CL,Central America,652230,0,Ghana,"1,946.73"
+37,Ministry of Youth and Sports,2019,"2,671,332,970,000.24",22.90275,"116,638,065,458",CN,Central America,652230,0,Ghana,"2,290.28"
+38,Ministry of Youth and Sports,2020,"3,205,599,564,000.28",26.94442,"118,970,826,768",CO,Oceania,652230,0,Ghana,"2,694.44"
+39,Ministry of Youth and Sports,2021,"3,846,719,476,800.34",31.69931,"121,350,243,303",KM,Oceania,652230,0,Ghana,"3,169.93"
+40,Ministry of Youth and Sports,2022,"4,616,063,372,160.41",37.29331,"123,777,248,169",CR,Oceania,652230,0,Ghana,"3,729.33"
+41,Ministry of Youth and Sports,2023,"5,539,276,046,592.49",43.87448,"126,252,793,132",HR,Oceania,652230,0,Ghana,"4,387.45"
+42,National Commission for Civic Education,2016,"6,647,131,255,910.99",51.61704,"128,777,848,995",CU,Oceania,652230,0,Ghana,"5,161.70"
+43,National Commission for Civic Education,2017,"7,976,557,507,093.19",60.72593,"131,353,405,975",CY,Oceania,652230,0,Ghana,"6,072.59"
+44,National Commission for Civic Education,2018,"9,571,869,008,511.82",71.44227,"133,980,474,094",CZ,Oceania,652230,0,Ghana,"7,144.23"
+45,National Commission for Civic Education,2019,"11,486,242,810,214.20",84.04973,"136,660,083,576",DK,Oceania,652230,0,Ghana,"8,404.97"
+46,National Commission for Civic Education,2020,"13,783,491,372,257.00",98.88203,"139,393,285,248",DJ,Oceania,652230,0,Ghana,"9,888.20"
+47,National Commission for Civic Education,2021,"16,540,189,646,708.40",116.3318,"142,181,150,953",DM,Oceania,652230,0,Ghana,"11,633.18"
+48,National Commission for Civic Education,2022,"19,848,227,576,050.10",136.86094,"145,024,773,972",DO,Oceania,652230,0,Ghana,"13,686.09"
+49,National Commission for Civic Education,2023,"23,817,873,091,260.10",161.01288,"147,925,269,451",EC,Oceania,652230,0,Ghana,"16,101.29"
+50,Ministry of Chieftaincy and Religious Affair,2016,"28,581,447,709,512.20",189.42691,"150,883,774,840",EG,Oceania,652230,0,Ghana,"18,942.69"
+51,Ministry of Chieftaincy and Religious Affair,2017,"34,297,737,251,414.60",222.85519,"153,901,450,337",SV,Oceania,652230,0,Ghana,"22,285.52"
+52,Ministry of Chieftaincy and Religious Affair,2018,"41,157,284,701,697.50",262.18258,"156,979,479,344",GQ,Oceania,652230,0,Ghana,"26,218.26"
+53,Ministry of Chieftaincy and Religious Affair,2019,"49,388,741,642,037.00",308.45009,"160,119,068,931",ER,South America,652230,0,Ghana,"30,845.01"
+54,Ministry of Chieftaincy and Religious Affair,2020,"59,266,489,970,444.40",362.88246,"163,321,450,309",EE,South America,652230,0,Ghana,"36,288.25"
+55,Ministry of Chieftaincy and Religious Affair,2021,"71,119,787,964,533.30",426.92054,"166,587,879,315",ET,South America,652230,0,Ghana,"42,692.05"
+56,Ministry of Chieftaincy and Religious Affair,2022,"85,343,745,557,440.00",502.25946,"169,919,636,902",FJ,South America,652230,0,Ghana,"50,225.95"
+57,Ministry of Chieftaincy and Religious Affair,2023,"102,412,494,668,928.00",590.89349,"173,318,029,640",FI,South America,652230,0,Ghana,"59,089.35"
+58,Ministry of  Communication,2016,"122,894,993,602,714.00",695.16881,"176,784,390,233",FR,South America,652230,0,Ghana,"69,516.88"
+59,Ministry of  Communication,2017,"147,473,992,323,256.00",817.84565,"180,320,078,037",GA,South America,652230,0,Ghana,"81,784.57"
+60,Ministry of  Communication,2018,"176,968,790,787,907.00",962.17136,"183,926,479,598",GM,South America,652230,0,Ghana,"96,217.14"
+61,Ministry of  Communication,2019,"212,362,548,945,489.00","1,131.97","187,605,009,190",GE,South America,652230,0,Ghana,"113,196.63"
+62,Ministry of  Communication,2020,"254,835,058,734,587.00","1,331.73","191,357,109,374",DE,South America,652230,0,Ghana,"133,172.51"
+63,Ministry of  Communication,2021,"305,802,070,481,504.00","1,566.74","195,184,251,561",GH,South America,652230,0,Ghana,"156,673.54"
+64,Ministry of  Communication,2022,"366,962,484,577,805.00","1,843.22","199,087,936,592",GR,South America,652230,0,Ghana,"184,321.81"
+65,Ministry of  Communication,2023,"440,354,981,493,366.00","2,168.49","203,069,695,324",GL,South America,652230,0,Ghana,"216,849.19"
